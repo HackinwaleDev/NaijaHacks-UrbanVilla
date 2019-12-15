@@ -19,7 +19,9 @@ MongoDB, ExpressJs, AngularJs, NodeJs (MEAN) and Redux-React
 
 # Top-level directory layout
 
-├── data                    # GraphQl files (alternatively `graphql` or `server`)
-├── public                  # Compiled files (alternatively `dist`)
-├── src                     # Source files (alternatively `lib` or `app`)
+├── app                    # GraphQl files (alternatively `graphql` or `server`)
+├── assets                  # Compiled files (alternatively `dist`)
+├── js                     # Source files (alternatively `lib` or `app`)
+├── index.html
+├── remote
 └── README.md   

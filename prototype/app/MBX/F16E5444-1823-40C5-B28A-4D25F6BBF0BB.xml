@@ -1,0 +1,58 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="F16E5444-1823-40C5-B28A-4D25F6BBF0BB" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="7">
+    <control controlID="00703C16-2002-4E5E-A2AF-D5C629398193" controlTypeID="BrowserWindow" x="10" y="10" w="738" h="611" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>UrbanVilla%0D%0Ahttps%3A%2F%2Fwww.urbanvilla.com</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="93668F85-B877-4D0E-86B7-CC335B85BF76" controlTypeID="Panel" x="59" y="107" w="649" h="456" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="C99E7E15-5135-4434-866B-AB621AB053D7" controlTypeID="TextArea" x="58" y="31" w="519" h="74" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>IMPORTANT!%0D%0AThis+card+is+valid+for+just+24hrs+and+it+will+enable+you+to+visit+the+house+and+inspect+each+of+the+rooms+and+environment.+If+you+are+satisfied+with+what+you+see+then+you+can+come+back+and+make+payment+to+secure+the+accommodation+as+there+is+no+guanranteed+it+will+be+available+for+long.</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="D1892BEF-E553-4810-9F80-FF741B5A4D26" controlTypeID="Image" x="58" y="136" w="449" h="278" zOrder="1">
+          <URL>833307E1BFCB12C631AE20208464143A.jpeg</URL>
+        </control>
+        <control controlID="FF4A7687-DC6C-43CC-AD3F-CDAE343006D4" controlTypeID="Button" x="531" y="136" w="70" h="28" zOrder="2">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="86B83185-8925-4CBC-A25B-30837A730785" linkType="ltPageLink" isApplyIncludePage="False" title="PrintDownloadInspectionCard">
+              <area shape="0" alt="" ID="{6567EE9D-2F36-4D7F-9F57-FB9D1465D46C}" coords="(0,0,70,28)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Print</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="0FB14A0E-F32C-407D-8F97-5B022D18448E" controlTypeID="Button" x="531" y="184" w="70" h="28" zOrder="3">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="86B83185-8925-4CBC-A25B-30837A730785" linkType="ltPageLink" isApplyIncludePage="False" title="PrintDownloadInspectionCard">
+              <area shape="0" alt="" ID="{164AB1F9-783E-423D-85D0-BFA3134A02CA}" coords="(0,0,70,28)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Download</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="E78ECAEB-03AE-495E-94A1-5513B46D5AD9" controlTypeID="Border" x="0" y="0" w="649" h="456" zOrder="4">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

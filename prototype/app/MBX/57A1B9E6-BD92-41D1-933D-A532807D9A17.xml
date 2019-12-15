@@ -1,0 +1,40 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="57A1B9E6-BD92-41D1-933D-A532807D9A17" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="6">
+    <control controlID="FAE20D76-2EDA-4EC0-98E4-851DC8CE120D" controlTypeID="BrowserWindow" x="10" y="10" w="738" h="611" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>UrbanVilla%0D%0Ahttps%3A%2F%2Fwww.urbanvilla.com</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="711F93DF-BB76-4460-8C38-61CA70ACF396" controlTypeID="Panel" x="59" y="107" w="649" h="456" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="8CD1937D-6639-42DD-8AB5-8741DA04BBC4" controlTypeID="TextArea" x="58" y="65" w="519" h="119" zOrder="0">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>You+will+get+a+mail+within+24hrs+with+all+the+documents+associated+with+the+house+(such+as+payment+receipt%2C+agreement+letter%2C+the+estate+rules%2C+etc.)%0D%0AIf+after+24hrs+you+did+not+get+a+mail%2C+kindly+contact+our+customer+support+on+support@urbanvilla.com%0D%0A%0D%0ARegards.</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="4771B70B-B6BA-473C-A9A0-12D19C2B9D5E" controlTypeID="Image" x="58" y="194" w="358" h="220" zOrder="1">
+          <URL>B14EF509DB42DEFA0272FE5759097827.jpg</URL>
+        </control>
+        <control controlID="8C66327C-3AFB-4113-AC70-AE28864C1800" controlTypeID="Label" x="58" y="36" w="183" h="19" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Payment+Awaiting+Approval</text>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+        </control>
+        <control controlID="B59BE874-A02F-4344-BDDE-C9FA9630458D" controlTypeID="Border" x="0" y="0" w="649" h="456" zOrder="3">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

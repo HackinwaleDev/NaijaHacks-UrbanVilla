@@ -1,0 +1,105 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="462A91A0-30B9-4393-AAEC-1B28C34D49D7" platform="MtWeb" defaultW="1100" defaultH="6000" measureW="1100" measureH="6000" mobileScreenScale="0">
+  <controls controlCount="13">
+    <control controlID="25F4953F-457C-4F15-90CB-5620952B8092" controlTypeID="BrowserWindow" x="10" y="10" w="738" h="611" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>UrbanVilla%0D%0Ahttps%3A%2F%2Fwww.urbanvilla.com</text>
+      <textSize>14</textSize>
+      <textVAlign>VaTop</textVAlign>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="751C3C91-5934-43C0-96C3-419D9C65E3CF" controlTypeID="Panel" x="29" y="97" w="699" h="470" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="094188CB-60D1-45F7-92F1-324440515747" controlTypeID="Image" x="151" y="72" w="288" h="63" zOrder="0">
+          <URL>533CBB955487573CA2E9099DBBE5BDFC.png</URL>
+        </control>
+        <control controlID="D5EF3ED8-FF53-40A5-95D2-CEB43F54A6D2" controlTypeID="Line" x="60" y="156" w="585" h="1" zOrder="1">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <controlPoint>(292,0)</controlPoint>
+          <startPoint>(0,0)</startPoint>
+          <endPoint>(585,0)</endPoint>
+          <dashMode>SdDash</dashMode>
+          <isCurved>False</isCurved>
+        </control>
+        <control controlID="9E5736AA-C751-4297-A905-C2424094EE6C" controlTypeID="LabelTextInput" x="60" y="215" w="280" h="24" zOrder="2">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Full+name%3A</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="E4E67B89-6C1E-4749-8462-1BEB963940F0" controlTypeID="Label" x="60" y="186" w="313" h="19" zOrder="3">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Kindly+fill+in+your+card+details+to+make+the+payment</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="BCD2D38E-1BF8-478A-B471-A6649343C04A" controlTypeID="LabelTextInput" x="59" y="247" w="280" h="24" zOrder="4">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Card+No.%2C+xxxx-xxxx-xxxx-xxxx</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="D02D0BDD-AFF6-4E6A-8D6F-E30BB28094BC" controlTypeID="LabelTextInput" x="60" y="283" w="280" h="24" zOrder="5">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>CVV%2C+the+3+digits+at+the+back+of+your+card</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C8A33C7F-ED45-455D-B407-E3A96CBE9E67" controlTypeID="Button" x="270" y="327" w="70" h="28" zOrder="6">
+          <color>4284900966</color>
+          <borderVisible>False</borderVisible>
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="57A1B9E6-BD92-41D1-933D-A532807D9A17" linkType="ltPageLink" isApplyIncludePage="False" title="PaymentApproved">
+              <area shape="0" alt="" ID="{055F50E9-D737-43FD-B2BE-883A266C85F6}" coords="(0,0,70,28)"/>
+            </link>
+          </links>
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <text>PAY</text>
+          <textColor>4294967295</textColor>
+          <textSize>12</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="41BD93AE-5C93-43EC-BF7F-E87D8BE307EC" controlTypeID="Line" x="398" y="164" w="1" h="239" zOrder="7">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <controlPoint>(0,120)</controlPoint>
+          <startPoint>(0,0)</startPoint>
+          <endPoint>(0,239)</endPoint>
+          <dashMode>SdDash</dashMode>
+          <isCurved>False</isCurved>
+        </control>
+        <control controlID="5E1D1109-B90C-44C4-A2E0-D456EC0EEAB8" controlTypeID="Label" x="404" y="171" w="40" h="19" zOrder="8">
+          <font family="Segoe+UI" displayName="Segoe+UI+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>NOTE%3A</text>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="630913EC-7964-45B3-A1A2-7DBF40EAAD3B" controlTypeID="TextArea" x="405" y="194" w="240" h="209" zOrder="9">
+          <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>UrbanVilla+does+not+keep+funds.+It+goes+straight+to+Landlord+or+agent+in+charge+of+the+house+listed+on+our+platform.+The+guarantee+you+have+is+that+if+after+24hrs+of+payment+and+you+did+not+get+approval+from+the+landlord%2Fagent+we+have+the+right+to+initiate+a+reversal+though+this+may+be+uncommon+case+provided+the+landlord%2Fagent+is+verified+on+our+platform.</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="63819C1C-2ECF-494A-BBBE-498DBBAFA1D6" controlTypeID="Border" x="0" y="0" w="699" h="470" zOrder="10">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
